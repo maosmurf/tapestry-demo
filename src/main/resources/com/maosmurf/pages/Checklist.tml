@@ -1,0 +1,11 @@
+<html t:type="layout" title="About tapestry-demo"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>About tapestry-demo application ...</p>
+
+    <div t:type="form">
+        <div t:id="checklist" />
+    </div>
+
+</html>
